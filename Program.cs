@@ -12,6 +12,8 @@ namespace FOOP201_Lab6
             Console.WriteLine(bill2.ToString());
 
             OverDueBill bill3 = new OverDueBill("Ronan", 86.99m, 5);
+
+
             Console.WriteLine(bill3);
         }
     }
